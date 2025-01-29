@@ -1,7 +1,7 @@
 //import java.util.*;
 /*
  * IT-2660 - Lab 1
- * Student Name: 
+ * Student Name: James Latten
  */
 
 public class Main {
